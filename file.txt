@@ -1,6 +1,7 @@
 mama
-do
-mama do
-oo oo oo oo
+oo
+mama oo
+oo oo oo oop
 I am Danila
+С++ python oo
 

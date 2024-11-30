@@ -35,10 +35,10 @@ class file_job:
 
             for i in range(len(list_word)):
                 w = list_word[i]
-                R(w)
+                check_tandem_repetition(w)
 
 
-def R(word):
+def check_tandem_repetition(word):
     # проверка на строку
     if word == word.replace(" ", ""):
         # проврека с помощью регулярного выражения
